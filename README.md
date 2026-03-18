@@ -25,9 +25,9 @@ lib/vistas/pagina_monitores.dart: Crea la vista independiente para monitores. De
 
 
 ## Paginas 
-<img width="588" height="790" alt="image" src="https://github.com/user-attachments/assets/0f0024e8-2361-427f-8fa8-db0f373efa37" />
+<img width="574" height="794" alt="image" src="https://github.com/user-attachments/assets/e04406f2-e785-4c53-9407-1239a2ce394c" />
 
-<img width="581" height="796" alt="image" src="https://github.com/user-attachments/assets/3b2b414d-62c3-4903-8704-7a9be6b7e2ec" />
+<img width="572" height="789" alt="image" src="https://github.com/user-attachments/assets/f81bbf55-8d72-4c6b-8df2-8a1c17d7f601" />
 
 <img width="578" height="792" alt="image" src="https://github.com/user-attachments/assets/ca9e383c-b26b-443b-9a06-4b07891afe78" />
 
